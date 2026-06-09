@@ -15,8 +15,9 @@ def get_wisdom() -> str:
         "Errors should never pass silently",
         "Coding repetition prevents code repetition",
         "No obstacles are truly removed by pushing with force",
+        "Don't be afraid to ask for help, even if it means asking a rubber duck",
         "In the face of ambiguity, refuse the temptation to guess",
-        "There should be one-- and preferably only one --obvious way to do it"
+        "There should be one-- and preferably only one --obvious way to do it",
         "Let branches be pointers in your life"
     ]
 
